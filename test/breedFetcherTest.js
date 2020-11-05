@@ -19,5 +19,5 @@ describe('fetchBreedDescription', () => {
       assert.equal(null, desc);
       done();
     });
+  });
 });
-})
